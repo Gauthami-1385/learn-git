@@ -1,6 +1,7 @@
 # Print all prime number in intervel
-x=int(input('Enter the lower limit'))
-y=int(input('Enter the upper limit'))
+# now this change is amend to older commit
+x=int(input('Enter the lower limit = '))
+y=int(input('Enter the upper limit = '))
 
 prime=[True] * (y+1)
 
